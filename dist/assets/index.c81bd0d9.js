@@ -1,0 +1,1 @@
+import{_ as a,u as c,a as n,o as u,c as _}from"./index.084ea813.js";const i={__name:"index",setup(p){const e=c(),s=n(),{params:t,query:r}=e,{path:o}=t;return s.replace({path:"/"+o,query:r}),(d,l)=>(u(),_("div"))}},x=a(i,[["__file","/Users/dongzai1005/ws/web-ui/src/views/redirect/index.vue"]]);export{x as default};
